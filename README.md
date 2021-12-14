@@ -1,5 +1,5 @@
 <h1> ZeeSpire One free</h1>
-![image](https://shop.zeespire.com/assets/images/one/1.png)
+![1](https://user-images.githubusercontent.com/16501430/146078595-6685bcdb-b360-42a0-96fc-8235355d6ff5.png)
 <h2> Get upgraded version, 3 layouts from <a href="https://shop.zeespire.com">here</a></h2>
 <h2>  <a href="https://shop.zeespire.com">Demo (see layout-2)</a> </h2>
 <br>
