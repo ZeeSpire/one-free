@@ -1,6 +1,6 @@
 <h1> ZeeSpire One free</h1>
 <h2> Get upgraded version, 3 layouts from <a href="https://shop.zeespire.com">here</a></h2>
-<h2>  <a href="https://shop.zeespire.com">Demo (see layout-2</a> </h2>
+<h2>  <a href="https://shop.zeespire.com">Demo (see layout-2)</a> </h2>
 <br>
 <font size="4">Premium theme using Jekyll version 4.1.2 & Bootstrap 5</font>
 <hr>
