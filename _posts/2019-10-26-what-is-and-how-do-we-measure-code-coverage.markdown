@@ -1,7 +1,7 @@
 ---
 layout: post-style-1
 type: post
-title: What is and how do we measure code coverage
+title: What is and how do we measure sample article
 published: 26 Oct 2019
 last_modified_at: 16 November 2021
 author: Zee Spire
@@ -12,7 +12,7 @@ featured-image: # full size
 featured-image-top: # width - 1200 (you can add the same URL as for featured-image)
 featured-image-home: # width - 600  (you can add the same URL as for featured-image) [use ~square images for homepage-style-1]
 featured-image-style: centered # can be centered or full-width
-hidden: true # true if hidden from homepage list
+hidden: false # true if hidden from homepage list
 ---
 Test quality is very important and one of the most important things in building quality tests is to cover all production code lines with tests.
 <div class="row mb-4">

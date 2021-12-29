@@ -1,7 +1,7 @@
 ---
 layout: post-style-1
 type: post
-title: Testing Spring Boot applications
+title: Testing sample article
 published: 26 Oct 2019
 last_modified_at: 16 November 2021
 author: Zee Spire

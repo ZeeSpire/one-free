@@ -4,7 +4,7 @@ title: "ZeeSpire One Jekyll Theme Demo"
 email: office@zeespire.com
 description: "Top notch software solutions"
 keywords: "software, java, development, coding, jekyll, theme, boostrap, responsive, seo"
-url: "https://one.zeespire.com"
+url: "https://one-free.zeespire.com"
 permalink: /:title/
 logo: '/assets/images/logo.png'
 logo-height: 170
@@ -13,11 +13,11 @@ show-author-on-posts: true # true or false, just for homepage-style-1 and homepa
 body-background-color: f7f7f7 # just for homepage-style-3
 
 # Social platforms, just for homepage-style-1 and homepage-style-2 
-youtube: https://one.zeespire.com # leave empty if not applicable
-medium: https://one.zeespire.com # leave empty if not applicable
-instagram: https://one.zeespire.com # leave empty if not applicable
-facebook: https://one.zeespire.com # leave empty if not applicable
-tiktok: https://one.zeespire.com # leave empty if not applicable
+youtube: https://one-free.zeespire.com # leave empty if not applicable
+medium: https://one-free.zeespire.com # leave empty if not applicable
+instagram: https://one-free.zeespire.com # leave empty if not applicable
+facebook: https://one-free.zeespire.com # leave empty if not applicable
+tiktok: https://one-free.zeespire.com # leave empty if not applicable
 
 # Show posts date on homepage
 show-posts-date: true # true or false, just for homepage-style-1 and homepage-style-2 
